@@ -1,0 +1,7 @@
+@article{REPO195,
+    author = "Zeng, Yong and Xu, Jie and Zhang, Rui",
+    journal = "IEEE Transactions on Wireless Communications",
+    pages = "2329-2345",
+    title = "{Energy Minimization for Wireless Communication With Rotary-Wing UAV}",
+    year = "2019"
+}
